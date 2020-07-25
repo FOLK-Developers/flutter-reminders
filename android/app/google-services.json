@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "445660718047",
+    "firebase_url": "https://akshayp-e91eb.firebaseio.com",
+    "project_id": "akshayp-e91eb",
+    "storage_bucket": "akshayp-e91eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445660718047:android:9fed9c8a4546d44d8bda6a",
+        "android_client_info": {
+          "package_name": "com.example.tester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445660718047-tt07soqspimjvri9tkqkqd9ir95p3ugp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxewIwvl0N9n7clMtNOoB4pLKK8juEQiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445660718047-tt07soqspimjvri9tkqkqd9ir95p3ugp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
