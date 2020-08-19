@@ -49,7 +49,7 @@ class _RsetState extends State<Rset> {
                 color: Colors.black,
               ),
               onPressed: (){
-                Firestore.instance.collection('location').document(locations.documents[i].documentID.toString()).delete().catchError;
+                Firestore.instance.collection('location').document(locations.documents[i].documentID.toString()).delete();
                 fireconn().then((results){
                   setState(() {
                     locations = results;

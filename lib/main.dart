@@ -49,7 +49,7 @@ class MainScreen extends StatelessWidget {
             ),
             RaisedButton(
                 color: Colors.indigo[400],
-                child: Text('SET ALARM', style: TextStyle(fontSize: 15),),
+                child: Text('ALARMS', style: TextStyle(fontSize: 15),),
                 elevation: 5.0,
                 onPressed:()
                 {
